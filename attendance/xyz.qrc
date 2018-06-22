@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>attendance matters.jpg</file>
+  </qresource>
+</RCC>

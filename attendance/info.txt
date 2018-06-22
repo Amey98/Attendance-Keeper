@@ -1,0 +1,1 @@
+in attendance.py, set email id and password in send email option

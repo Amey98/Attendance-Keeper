@@ -1,0 +1,15 @@
+Tables:
+
+database name:attendance
+
+1)studentdetails
+(name,email,mobileno,dept,sem,username,password)
+
+2)sem4
+(dept,sub1,sub2,sub3,sub4,sub5,sub6)
+
+3)otpdetails
+(username,otp)
+
+4)attrecord
+(username,sem,dept,date,sub1,sub2,sub3,sub4,sub5,sub6,sub1lec,sub2lec,sub3lec,sub4lec,sub5lec,sub6lec)
